@@ -1,0 +1,19 @@
+div{
+    color: rgb(39, 37, 37);
+    background-color: rgb(207, 247, 243);
+    width: 50%;
+    overflow: visible;
+    text-transform: uppercase;
+    border: double 7px blue ;
+}
+h1{
+    border: solid 5px blue;
+    display: inline-block;
+    margin: 25%;
+    padding: 5%;
+}
+span{
+    border: solid 2px darkgray;
+    display: inline-block;
+    border-radius: 15%;
+}
