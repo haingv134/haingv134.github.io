@@ -1,19 +1,39 @@
-div{
-    color: rgb(39, 37, 37);
-    background-color: rgb(207, 247, 243);
-    width: 50%;
-    overflow: visible;
-    text-transform: uppercase;
-    border: double 7px blue ;
+body{
+    background-color: rgb(231, 228, 223);
 }
-h1{
-    border: solid 5px blue;
-    display: inline-block;
-    margin: 25%;
-    padding: 5%;
+header{
+    background-color: rgb(232, 243, 243);
+    color: brown;
+    text-align: center;
 }
-span{
-    border: solid 2px darkgray;
+main{
+    margin: 2%;
+}
+nav{
+    text-align: center;
+    font-size: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+
+h3{
+    background-color: aqua;
+}
+section{
+    width: 20%;
+    margin-right: 2%;
+    padding: 5px;
+    color: rgb(59, 223, 113);
     display: inline-block;
-    border-radius: 15%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    color: rgb(175, 104, 146);
+    text-align: center;
+    clear: both;;
+}
+
+img{
+    width: 15%;
 }
